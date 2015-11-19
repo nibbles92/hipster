@@ -14,7 +14,7 @@ public class Hipster
 
 	private void setupArray()
 	{
-		hipsterPhrases[0] = "";
+		hipsterPhrases[0] = "Noone is doing it!!! ";
 		hipsterPhrases[1] = "";
 		hipsterPhrases[2] = "";
 		hipsterPhrases[3] = "";
